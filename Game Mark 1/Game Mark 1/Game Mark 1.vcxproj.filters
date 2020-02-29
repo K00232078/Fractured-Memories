@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Character.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Collision.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="EventHandler.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Maze.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="PowerUp.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Puzzle.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Renderer.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="SpriteManager.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="temp.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Source\Game Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Game_EnemyMove.cpp">
+      <Filter>Source\Game Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Game_EventHandler.cpp">
+      <Filter>Source\Game Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Game_GameLoop.cpp">
+      <Filter>Source\Game Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Game_Init.cpp">
+      <Filter>Source\Game Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Game_PlayerMove.cpp">
+      <Filter>Source\Game Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Game_Render.cpp">
+      <Filter>Source\Game Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Game_Render_Menu.cpp">
+      <Filter>Source\Game Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Game_Render_Play.cpp">
+      <Filter>Source\Game Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Game_Update.cpp">
+      <Filter>Source\Game Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GameMenu.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Game_EventKeyboard.cpp">
+      <Filter>Source\Game Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Game_PlayerSpriteChange.cpp">
+      <Filter>Source\Game Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Game_Render_Pause.cpp">
+      <Filter>Source\Game Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Game_HUD.cpp">
+      <Filter>Source\Game Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TextManager.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="StoryEngine.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="StoryEngine.cpp" />
+    <ClCompile Include="Game_Render_Puzzle.cpp">
+      <Filter>Source\Game Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Game_CheckIfAtEnd.cpp">
+      <Filter>Source\Game Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Cooldown.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="SoundManager.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="LevelManager.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="ClueManager.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Clue.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Game_SetUpLevel.cpp">
+      <Filter>Source\Game Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Game_SpriteSetup.cpp">
+      <Filter>Source\Game Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Game_NextLevel.cpp">
+      <Filter>Source\Game Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Guess.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Game_GuessEvent.cpp">
+      <Filter>Source\Game Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EndScene.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="InventoryViewer.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Character.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Collision.hpp">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="CollisionDetection.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="EventHandler.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Maze.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Puzzle.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="PowerUp.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Renderer.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="SpriteManager.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="StateManager.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="GameMenu.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="TextManager.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="StoryEngine.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="LevelManager.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Cooldown.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundManager.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Clue.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="ClueManager.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="InventoryViewer.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Guess.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="EndScene.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Headers">
+      <UniqueIdentifier>{0b6d3ade-6bab-4c59-be29-22d722837acf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source">
+      <UniqueIdentifier>{ecaf7d99-31c0-4661-b9c1-54939ce07fed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Game Files">
+      <UniqueIdentifier>{03c0169d-2e40-4e10-b3ff-19ee0fa87fe3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+  </ItemGroup>
+</Project>

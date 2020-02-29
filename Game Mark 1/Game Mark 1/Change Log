@@ -1,0 +1,22 @@
+Change Log
+
+/*-------------------------*/
+Date: 07-01-2020
+Author: Thomas
+Changes Made: 
+Modified the Player::Distance method, changing the algorithm to just take delta (change in x and y values) values.
+Looking at the 
+/*-------------------------*/
+
+/*-------------------------*/
+Date: 08/01/20
+Author: Jordan
+Changes Made: Game
+/*-------------------------*/
+Added new enemy and power up poistions
+
+/*-------------------------*/
+Date:
+Author:
+Changes Made:
+/*-------------------------*/
